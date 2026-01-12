@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "FOREVER BLUE",
+  "base_artist": "TAGRIGHT",
+  "createdAt": "2026-01-12T10:21:56.704801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Closer Than The Sun/Forever Blue",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/01_Closer_Than_The_Sun_Forever_Blue_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Closer Than the Sun \u0000 Forever Blue",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/02_Closer_Than_the_Sun_\u0000_Forever_Blue_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/03_Forever_Blue_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Blue (String Mix)",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/04_Forever_Blue_(String_Mix)_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Blue - Acoustic Version",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/05_Forever_Blue_-_Acoustic_Version_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever Blue (Acoustic Version)",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/06_Forever_Blue_(Acoustic_Version)_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/07_Forever_Blue_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Swing Out Sister",
+      "has_synced": true,
+      "path": "select/08_Forever_Blue_Swing_Out_Sister.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Little River Band",
+      "has_synced": true,
+      "path": "select/09_Forever_Blue_Little_River_Band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Little River Band",
+      "has_synced": false,
+      "path": "select/10_Forever_Blue_Little_River_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/11_Forever_Blue_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Little River Band",
+      "has_synced": true,
+      "path": "select/12_Forever_Blue_Little_River_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forever Blue (Acoustic)",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/13_Forever_Blue_(Acoustic)_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/14_Forever_Blue_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "Kina Grannis",
+      "has_synced": true,
+      "path": "select/15_Forever_Blue_Kina_Grannis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "MYMP",
+      "has_synced": true,
+      "path": "select/16_Forever_Blue_MYMP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Forever Blue",
+      "artist": "M.Y.M.P.",
+      "has_synced": true,
+      "path": "select/17_Forever_Blue_M.Y.M.P..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/19_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Forever After All",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/20_Forever_After_All_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Forever",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/21_Forever_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Forever",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/22_Forever_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Forever and a Day",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/23_Forever_and_a_Day_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Forever And A Day (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/24_Forever_And_A_Day_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner feat. Randy Travis",
+      "has_synced": false,
+      "path": "select/25_Forever_And_Ever,_Amen_Josh_Turner_feat._Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/26_Forever_And_Ever,_Amen_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/27_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Forever Changed",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/28_Forever_Changed_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Forever Country",
+      "artist": "Artists Of Then, Now & Forever",
+      "has_synced": true,
+      "path": "select/29_Forever_Country_Artists_Of_Then,_Now_&_Forever.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Forever Together",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/30_Forever_Together_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Forever Together (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/31_Forever_Together_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/32_Forever_And_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Forever and Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/33_Forever_and_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "How Forever Feels",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/34_How_Forever_Feels_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOREVER BLUE",
+      "artist": "TAGRIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_FOREVER_BLUE_TAGRIGHT.txt"
+    }
+  ]
+}
